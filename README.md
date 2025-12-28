@@ -1,6 +1,6 @@
-# Resume2Path – MVP
+Resume2Path
 
-**Goal**: Upload CV → parse → AI extract → show gaps + suggestions → CTA book 1–1 (Calendly). Keep infra nhỏ gọn, dễ ship trong 1–2 ngày.
+Resume2Path is an end-to-end AI-powered web application that helps users analyze resumes, extract key skills, identify gaps, and generate actionable career recommendations. Built with Next.js, TypeScript, Tailwind CSS, and powered by OpenAI GPT-4-mini, this project showcases a full-stack implementation with a focus on scalability and user experience.
 
 ## 🚀 Quick Start
 
