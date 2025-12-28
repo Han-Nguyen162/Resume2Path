@@ -2,6 +2,8 @@ Resume2Path
 
 Resume2Path is an end-to-end AI-powered web application that helps users analyze resumes, extract key skills, identify gaps, and generate actionable career recommendations. Built with Next.js, TypeScript, Tailwind CSS, and powered by OpenAI GPT-4-mini, this project showcases a full-stack implementation with a focus on scalability and user experience.
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/3bbb6cda-f8e5-4627-b7f1-eb8f86953218" />
+
 ## 🚀 Quick Start
 
 1. **Install dependencies**
